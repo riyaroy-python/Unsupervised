@@ -35,7 +35,6 @@ A Streamlit web application that predicts customer segments based on shopping ma
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/riyaroy/mall-customer-segmentation.git
    git clone https://github.com/riyaroy-python/Unsupervised.git 
 
 
